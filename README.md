@@ -1,2 +1,3 @@
 # lockMq
-mq消息队列加分布式锁
+基于redis的分布式锁，包含redissionConfig、ShopController、ShopService、ShopServiceImpl和Application.yml
+
